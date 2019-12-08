@@ -2,7 +2,6 @@
 
 Servo myservo;
 const int LED_PIN = 13;
-const int ENABLE_PIN = 2;
 const int BTN_PIN = 3;
 const int PIR_PIN = 8;
 const int SERVO_PIN = 10;
